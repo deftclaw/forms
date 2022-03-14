@@ -6,7 +6,7 @@ application up and running.
 Things you may want to cover:  
   
   * Ruby version  
-   - _ruby 3.1.1p18_  
+     - _ruby 3.1.1p18_  
   * System dependencies  
      - _ruby 3.1.1p18_  
      - _node v17.7.1_  
